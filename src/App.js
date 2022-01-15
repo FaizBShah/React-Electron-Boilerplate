@@ -2,6 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // The Electron.js configuration is in
+  // the 'public/main.js' file. The starting scripts
+  // are written in package.json.
   return (
     <div className="App">
       <header className="App-header">
